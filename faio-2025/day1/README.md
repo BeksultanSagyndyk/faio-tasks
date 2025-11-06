@@ -38,9 +38,10 @@ Develop a system that ingests and parses JSON data, organizes it for knowledge r
 Accuracy is the evaluation metric — the number of correct answers divided by total questions.  
 The metric ranges from 0 to 1 (1 means all answers are correct, 0 means none are correct).
 
-**Task Link:**  
+**Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/96bfb8a3431c91d7479308df476fc0ee)**
-
+**Task Link:**  
+### **[Click here](./Who_is_the_best_pitcher.md)**
 
 ## Problem 3: Misssing fundamental puzzle
 **Task Description:**  
@@ -53,9 +54,10 @@ Develop a system that analyzes mono WAV files (22050 Hz). Each file is a musical
 Accuracy is the evaluation metric — the number of correct predictions divided by the total number of examples.  
 The metric ranges from 0 to 1 (1 means all answers are correct, 0 means none are correct).
 
-**Task Link:**  
+**Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/fbaef0197897255be8710f080fd1b4ae)**
-
+**Task Link:**  
+### **[Click here](./Who_is_the_best_pitcher.md)**
 
 🎉 **Good luck and enjoy the challenge!**
 
