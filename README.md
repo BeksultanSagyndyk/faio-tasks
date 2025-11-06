@@ -1,3 +1,25 @@
+<!-- DOCTOC SKIP -->
+
+<h1 align="center">
+  <a href="https://faio.kz">
+    <picture>
+      <!-- Replace these with your actual logo paths if you have them -->
+      <source media="(prefers-color-scheme: dark)" srcset="assets/faio_logo_dark.png"/>
+      <img height="120" src="assets/faio_logo_light.png" alt="FAIO logo"/>
+    </picture>
+  </a>
+  <br/>FAIO Tasks (2024–2025)
+</h1>
+
+<p align="center">
+  🎓 Fizmat AI Olympiad — tasks, solutions & starter kits.
+</p>
+
+<p align="center">
+  <a href="https://faio.kz"><img src="https://img.shields.io/badge/Website-faio.kz-blue?logo=googlechrome&logoColor=white"/></a>
+  <a href="https://github.com/BeksultanSagyndyk/faio-tasks"><img src="https://img.shields.io/github/stars/BeksultanSagyndyk/faio-tasks?style=social"/></a>
+  <a href="https://github.com/BeksultanSagyndyk/faio-tasks/issues"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen"/></a>
+</p>
 # FAIO Tasks (2024–2025)
 
 Short, curated set of tasks and materials from the Fizmat AI Olympiad (FAIO).
