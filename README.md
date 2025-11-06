@@ -21,11 +21,13 @@ It is intended for learning, practice, and archival use.
 ## Quick Start
 
 1. Clone the repo and enter the folder:
-
+   
+    ```bash
     git clone https://github.com/BeksultanSagyndyk/faio-tasks
     cd faio-tasks
-
-2. Explore tasks by year and round.
+    ```
+   
+3. Explore tasks by year and round.
 
 ## Links
 - Olympiad site: https://faio.kz/
