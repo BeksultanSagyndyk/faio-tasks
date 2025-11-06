@@ -59,7 +59,7 @@ It is intended for learning, practice, and archival use.
 
 <p>
   <a href="https://github.com/BeksultanSagyndyk">
-    <img src="https://github.com/YOUR_USERNAME.png?size=100" width="80" height="80" alt="BeksultanSagyndyk" />
+    <img src="https://github.com/BeksultanSagyndyk.png?size=100" width="80" height="80" alt="BeksultanSagyndyk" />
   </a>
   <a href="https://github.com/Allessyer">
     <img src="https://github.com/Allessyer.png?size=100" width="80" height="80" alt="Allessyer" />
