@@ -20,8 +20,10 @@ Given real-world listening data from the hitter and Izi music apps, your task is
 - For each test user, recommend exactly 50 tracks ranked by predicted relevance.
 - Score: For each recommendation, record the fraction of the track listened (from 0.0 to 1.0); sum and average these values to compute the final normalized score (0.0 to 1.0).
 
-**Task Link:**  
+**Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/8298025698a57213001f0536bfaa21ee)**
+**Task Link:**  
+### **[Click here](./HearMe_Personalized_Music_Recommender.md)**
 
 ## Problem 2: Lost in the Museum
 **Task Description:**  
@@ -38,8 +40,11 @@ The competition uses the **Hit@3** metric:
 - For every query photo, if the correct gallery painting appears in the **top 3 most similar images** (via cosine similarity of embeddings), it’s counted as a hit.
 - Final score: the fraction of query images with a correct match in the top-3 list (ranges from 0.0 to 1.0).
 
-**Task Link:**  
+**Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/1a1226a3500cc1d0fb182a42f60c4d41)**
+**Task Link:**  
+### **[Click here](./Lost_in_the_Museum.md)**
+
 
 🎉 **Good luck and enjoy the challenge!**
 
