@@ -1,4 +1,3 @@
-# IMU Yoga Repetition Quality — Binary Classification
 
 ## Introduction
 
