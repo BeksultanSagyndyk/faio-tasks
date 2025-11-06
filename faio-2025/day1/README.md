@@ -57,7 +57,7 @@ The metric ranges from 0 to 1 (1 means all answers are correct, 0 means none are
 **Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/fbaef0197897255be8710f080fd1b4ae)**
 **Task Link:**  
-### **[Click here](./Missing-Fundamental-Puzzle.md)**
+### **[Click here](.//Missing_Fundamental_Puzzle.md)**
 
 🎉 **Good luck and enjoy the challenge!**
 
