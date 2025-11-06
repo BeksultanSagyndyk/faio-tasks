@@ -30,3 +30,12 @@ Your task is to build a classification model using a tabular dataset. This datas
  - Discrete Cosine Transform (DCT): Common in compression, captures low-frequency patterns.
  - Wavelet Transform: Multi-scale decomposition, capturing edges and textures.
 
+## Files
+
+*   **train.csv** - the training set. Contains the engineered features (e.g., f1, f2, ...) derived from the letter images, along with the true character label (target).
+*   **test.csv** - the test set.  Contains the same set of engineered features, but the target column is withheld for prediction.
+*   **sample_submission.csv** - a sample submission file in the correct format.
+*   **labels.csv** - supplemental information about the data.
+
+```bash
+kaggle competitions download -c qaz-letters
