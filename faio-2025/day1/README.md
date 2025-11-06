@@ -21,8 +21,10 @@ Train a classification model that predicts the correct Kazakh letter based on th
 Performance is evaluated using Accuracy, which measures the proportion of correctly classified letters.  
 The metric ranges from 0 to 1 (1 means all letters are classified correctly, 0 means none are correct).
 
-**Task Link:**  
+**Kaggle Link:**  
 ### **[Click here](https://www.kaggle.com/t/23291ce18385cab3fab6ff5f45f1b0ba)**
+**Task Link:**  
+### **[Click here](./qaz_letters.md)**
 
 ## Problem 2: Who is the best pitcher?
 
