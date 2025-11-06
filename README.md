@@ -73,4 +73,7 @@ It is intended for learning, practice, and archival use.
   <a href="https://github.com/fokrey">
     <img src="https://github.com/fokrey.png?size=100" width="80" height="80" alt="fokrey" />
   </a>
+  <a href="https://github.com/kuanyshoteu">
+    <img src="https://github.com/kuanyshoteu.png?size=100" width="80" height="80" alt="kuanyshoteu" />
+  </a>
 </p>
