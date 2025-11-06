@@ -70,7 +70,7 @@ where \(P(A)\) is the prior probability (initial estimate of \(A\)),
 
 *Application*
 - Data analysis: correctly interpreting a positive test for a rare event (taking into account the base prevalence \(P(A)\)).
-- ML: Naive Bayes—calculating \(P(\text{class} \mid \text{features})\) via \(P(\text{features} \mid \text{class}) \cdot P(\text{class})\) and normalizing by \(P(\text{features})\).
+- ML: Naive Bayes — compute `P(class | features) ∝ P(features | class) · P(class)` and then normalize: `P(class | features) = [P(features | class) · P(class)] / P(features)`.
 
 ## Answer Format
 
