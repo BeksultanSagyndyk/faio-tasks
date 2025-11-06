@@ -53,3 +53,18 @@ It is intended for learning, practice, and archival use.
 ## Links
 - Olympiad site: https://faio.kz/
 - This repository: https://github.com/BeksultanSagyndyk/faio-tasks
+  
+## 👥 Credits
+### Organizers/Jury/Authors
+
+<p>
+  <a href="https://github.com/BeksultanSagyndyk">
+    <img src="https://github.com/YOUR_USERNAME.png?size=100" width="80" height="80" alt="BeksultanSagyndyk" />
+  </a>
+  <a href="https://github.com/Allessyer">
+    <img src="https://github.com/Allessyer.png?size=100" width="80" height="80" alt="Allessyer" />
+  </a>
+  <a href="https://github.com/Magauiya">
+    <img src="https://github.com/Magauiya.png?size=100" width="80" height="80" alt="Magauiya" />
+  </a>
+</p>
