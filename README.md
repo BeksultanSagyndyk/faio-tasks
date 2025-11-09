@@ -4,7 +4,7 @@
   <a href="https://faio.kz">
     <picture>
       <!-- Replace these with your actual logo paths if you have them -->
-      <source media="(prefers-color-scheme: dark)" srcset="assets/faio_logo_dark.png"/>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png"/>
       <img height="120" src="assets/faio_logo_light.png" alt="FAIO logo"/>
     </picture>
   </a>
