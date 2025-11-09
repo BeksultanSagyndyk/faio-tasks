@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://faio.kz">
-    <img height="200" width="560"  src="./logo.png" alt="FAIO logo"/>
+    <img height="120"  src="./logo.png" alt="FAIO logo"/>
   </a>
   <br/>FAIO Tasks (2024–present)
 </h1>
