@@ -59,6 +59,9 @@ It is intended for learning, practice, and archival use.
   <a href="https://github.com/BeksultanSagyndyk">
     <img src="https://github.com/BeksultanSagyndyk.png?size=100" width="80" height="80" alt="BeksultanSagyndyk" />
   </a>
+  <a href="https://github.com/darkhan-ai">
+    <img src="https://github.com/darkhan-ai.png?size=100" width="80" height="80" alt="darkhan-ai" />
+  </a>
   <a href="https://github.com/Allessyer">
     <img src="https://github.com/Allessyer.png?size=100" width="80" height="80" alt="Allessyer" />
   </a>
