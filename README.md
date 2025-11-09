@@ -6,7 +6,7 @@
   <a href="https://faio.kz">
     <img height="120" src="./logo.png" alt="FAIO logo"/>
   </a>
-  <br/>FAIO Tasks (2024–2025)
+  <br/>FAIO Tasks (2024–present)
 </h1>
 
 <p align="center">
