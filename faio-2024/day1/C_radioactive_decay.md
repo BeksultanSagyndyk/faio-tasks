@@ -1,6 +1,6 @@
 https://contest.yandex.ru/contest/69765/problems/C/
 
-## Введение
+## Introduction
 In physics, it is known that radioactive substances lose half of their activity or mass every T_0 seconds, which is described by the following equation:
 
 $$m(t) = m_0 \left(\frac{1}{2}\right)^{t / T_0}$$
