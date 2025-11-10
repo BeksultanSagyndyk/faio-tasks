@@ -23,7 +23,7 @@ Each task is worth **1 point**. The maximum score for this round is **3 points**
 - 📄 **Task Description:** You need to build a machine learning model for automatic Kazakh letter classification. The dataset contains only numerical features extracted from images: statistical, geometric, projection, and transform-based features — not raw images.
 - 🔧 **What to do:** Train a classification model that predicts the correct Kazakh letter based on the given features.
 - 📊 **Metric:** Performance is evaluated using Accuracy, which measures the proportion of correctly classified letters. The metric ranges from 0 to 1 (1 means all letters are classified correctly, 0 means none are correct).
-- 🔗 **Kaggle:** [Click here](https://www.kaggle.com/t/23291ce18385cab3fab6ff5f45f1b0ba)
+- 🔗 **Kaggle:** [Click here](https://www.kaggle.com/t/23291ce18385cab3fab6ff5f45f1b0ba), [late submission](https://www.kaggle.com/competitions/kazakh-letters/leaderboard) 
 - 📝 **Task:** [Click here](./qaz_letters.md)
 
 ### 🧩 Problem 2 — Who is the best pitcher?
