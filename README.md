@@ -76,5 +76,8 @@ It is intended for learning, practice, and archival use.
   </a>
   <a href="https://github.com/kuanyshoteu">
     <img src="https://github.com/kuanyshoteu.png?size=100" width="80" height="80" alt="kuanyshoteu" />
+  <a href="https://github.com/nzhakin">
+    <img src="https://github.com/nzhakin.png?size=100" width="80" height="80" alt="nzhakin" />
   </a>
 </p>
+
