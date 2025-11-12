@@ -53,7 +53,7 @@ It is intended for learning, practice, and archival use.
 - This repository: https://github.com/BeksultanSagyndyk/faio-tasks
   
 ## 👥 Credits
-### Organizers/Jury/Authors
+### Organizers | Jury | Authors
 
 <p>
   <a href="https://github.com/BeksultanSagyndyk">
